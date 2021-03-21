@@ -1,0 +1,2 @@
+/dev/snd/midiC2D0
+plughw:1,0
